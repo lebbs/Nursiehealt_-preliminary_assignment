@@ -2,7 +2,7 @@
 
 ## Project setup
 
-First navigate to backend folder with terminal
+First navigate to the backend folder with terminal
  ````
  cd backend
  ````
@@ -13,7 +13,7 @@ Open another terminal and type in the following command
 npm install
 ````
 
-After the installation type command
+After the installation type in command
 ````
 npm start
 ````
