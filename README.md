@@ -18,7 +18,7 @@ After the installation type command
 npm start
 ````
 
-## Browser will open and you are ready to use the Book manager application!
+## Browser will open and now you are ready to use the Book manager application!
 
 
 
