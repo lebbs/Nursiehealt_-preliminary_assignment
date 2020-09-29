@@ -6,8 +6,12 @@ First navigate to the backend folder with terminal
  ````
  cd backend
  ````
+ Then type in the following command
+ ````
+ node server.js
+ ````
 
-Open another terminal and type in the following command
+Next you will need to open another terminal and type in the following command
 
 ````
 npm install
